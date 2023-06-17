@@ -53,5 +53,3 @@ addXp("manaEnergy")
 addXp("magicPower")
 attributes += dice
 console.log("Teste de habilidade = ", attributes)
-console.log("biruiriaaa")
-console.log("biruaaa ulala")
